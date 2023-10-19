@@ -1,3 +1,5 @@
+#Controlador de vendas
+
 Algumas das principais funcionalidades incluem:
 
 Registro de vendas com informações detalhadas.
